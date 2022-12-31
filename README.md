@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SewonYun
-- 👀 I’m interested in node, docker and "clean code"
-- 🌱 I’m currently learning "clean code"
+- - 🧑‍💼 I'm in between jobs right now
+- 👀 I’m interested in node, php, docker, scala, python
+- 🌱 I’m currently learning "scala, jvm"
 - 📫 How to reach me facemen9459@gmail.com
 
 <!---
