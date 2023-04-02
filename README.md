@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SewonYun, i've experienced four parts of web services which are front end, back end and cloud computing.
+- 👋 Hi, I’m @SewonYun, i've experienced three parts of web services which are front end, back end and cloud computing.
 - 🧑‍💼 I’m in between jobs right now
 - 👀 I’m interested in node, php, docker, scala, python
 - 🌱 I’m currently learning "scala, jvm"
